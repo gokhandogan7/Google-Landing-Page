@@ -74,6 +74,7 @@ a:hover {
     height: 92px;
     display: block;
     margin: 109px auto 0;
+   
 }
 
 .searchbar {
@@ -188,4 +189,15 @@ footer {
 .footer-right {
     float: right;
     margin: 0 12px 0 0;
+}
+
+
+@media(max-width:568px){
+    .clearfix::after {
+        content: "";
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
 }
