@@ -200,4 +200,11 @@ footer {
         justify-content: center;
         
     }
+    #google-logo {
+        width: 272px;
+        height: 92px;
+        display: block;
+        margin: 109px auto 0;
+       
+    }
 }
