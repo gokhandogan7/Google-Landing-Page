@@ -26,7 +26,7 @@ body {
 .clearfix{
     display: flex;
     justify-content: space-between;
-    border: 2px solid rgb(15, 15, 85);
+    
     width: 100%;
 }
 
